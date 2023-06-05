@@ -1,4 +1,4 @@
-# Mengambil input dari pengguna
+#Mengambil input dari pengguna
 numbers = []
 nilai = int(input("Masukan Nilai:"))
 for i in range (1,nilai):
